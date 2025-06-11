@@ -1,0 +1,15 @@
+# Arquivos temporários do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+*.dbmdl
+*.opendb
+
+# Outras ignorâncias comuns
+*.exe
+*.dll
