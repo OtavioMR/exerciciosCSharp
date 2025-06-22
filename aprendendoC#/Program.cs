@@ -6,7 +6,8 @@
         {
             //calculadora.Executar();
             //Desafio2.Executar();
-            pares.Executar();
+            //pares.Executar();
+            Fatorial.Executar();
         }
     }
 }
